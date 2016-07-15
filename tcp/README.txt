@@ -19,8 +19,6 @@ filefold 'Executable':  可执行程序以及中间生成的jar程序           
                                                                                    ||
 file 'Report.pdf': 报告_pdf版本                                                      ||
                                                                                    ||
-file 'Report.doc': 报告_doc版本（因pdf中的图片无法看清楚，在word中可以放大看！！）            ||
-                                                                                   ||
 filefold 'screenshots': 可执行程序运行的截图                                           ||
                                                                                    ||
 filefold 'jre1.8.0_73': 可执行文件必须要有jre支持，可以在官网上下载。                         ||
