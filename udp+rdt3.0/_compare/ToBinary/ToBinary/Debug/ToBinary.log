@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/4/14 星期四 9:16:41。
+     1>项目“E:\5130309194\ToBinary\ToBinary\ToBinary.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VSV\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ToBinary.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ToBinary.cpp
+         ToBinary.cpp
+     1>e:\5130309194\tobinary\tobinary\tobinary.cpp(21): warning C4129: “R”: 不可识别的字符转义序列
+     1>e:\5130309194\tobinary\tobinary\tobinary.cpp(22): warning C4129: “R”: 不可识别的字符转义序列
+     1>e:\5130309194\tobinary\tobinary\tobinary.cpp(37): warning C4554: “<<”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+       Link:
+         D:\VSV\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\5130309194\ToBinary\Debug\ToBinary.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\5130309194\ToBinary\Debug\ToBinary.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\5130309194\ToBinary\Debug\ToBinary.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\ToBinary.obj
+         ToBinary.vcxproj -> E:\5130309194\ToBinary\Debug\ToBinary.exe
+     1>已完成生成项目“E:\5130309194\ToBinary\ToBinary\ToBinary.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.71
